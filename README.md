@@ -37,9 +37,4 @@ python -m pip install pyinstaller
 ```
 
 This will create a one-file, windowed executable named `LibraryCollection.exe` in the `dist` folder.
-
-Notes
-
-- The app copies uploaded cover images into the `covers/` folder.
-- If you want thumbnails in the details panel, install `Pillow` (already listed in `requirements.txt`).
-- The code file `Library_app/library_modern` is the main script used by the launcher.
+

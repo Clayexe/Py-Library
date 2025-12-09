@@ -1,0 +1,14 @@
+[project]
+name = "library_modern"
+version = "0.1.0"
+description = "Library Collection desktop app (CustomTkinter)"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+  "customtkinter",
+  "Pillow"
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

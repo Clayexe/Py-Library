@@ -1,4 +1,4 @@
-Library Collection (Modern)
+Library Collection
 
 This is a small desktop app built with CustomTkinter to manage a local library collection.
 
@@ -37,4 +37,4 @@ python -m pip install pyinstaller
 ```
 
 This will create a one-file, windowed executable named `LibraryCollection.exe` in the `dist` folder.
-
+
